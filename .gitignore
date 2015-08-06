@@ -1,0 +1,37 @@
+/.vagrant
+
+# IntelliJ - PhpStorm and PyCharm
+.idea
+.idea/
+.idea/*
+*.iml
+*.ipr
+*.iws
+
+# Netbeans
+nbproject
+.nbproject
+.nbproject/*
+nbproject/*
+nbbuild/
+nbdist/
+nbactions.xml
+nb-configuration.xml
+
+# Mac OSX
+.DS_Store
+# Thumbnails
+._*
+# Files that might appear on external disk
+.Spotlight-V100
+.Trashes
+
+# SublimeText project files
+/*.sublime-project
+*.sublime-workspace
+/vendor/
+
+# The contents of the uploads directory
+uploads/*
+
+composer.lock

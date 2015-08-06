@@ -1,0 +1,18 @@
+{
+    "name": "sitepoint/ocr",
+    "description": "A simple example application for performing Optical Character Recognition (OCR) using PHP",
+    "require": {
+        "silex/silex": "1.3.0",
+        "twig/twig": "1.18.2",
+        "thiagoalessio/tesseract_ocr": "dev-master",
+        "giggsey/libphonenumber-for-php": "~7.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Lukas White",
+            "email": "hello@lukaswhite.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
