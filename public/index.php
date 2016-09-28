@@ -120,6 +120,7 @@ $app->post('/identify-telephone-number', function(Request $request) use ($app) {
   return $app->json(
     [
       'number'     =>  $number,
+      'text'       =>  $text,
     ]
   );
 
