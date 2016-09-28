@@ -44,4 +44,4 @@ http://homestead.app/
 
 ##Further Information
 
-This application forms the basis of an upcoming article. I'll update this README once it's online.
+This application forms the basis of [this article on Sitepoint](http://www.sitepoint.com/ocr-in-php-read-text-from-images-with-tesseract/).
